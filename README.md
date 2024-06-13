@@ -39,7 +39,7 @@ Install Qt5 via:
 How to build on linux development machine:
 
     1. Goto the directory into which the repository was cloned
-    2. Type 'qmake'
+    2. Type 'qmake'.  Note: the first time running this a warning may be shown, it can safely be ignored.
     3. When qmake finishes, type 'make'
 
 Enjoy
