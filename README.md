@@ -17,20 +17,22 @@ Windows development environments have not been tried.
 
 Dependencies:
 
-Normal linux development tools
-
-Qt5:            Qt 5.1
-Boost:          1.72 or later
-Nlohmann/JSON:  3.0 or later
+    Normal linux development tools
+    Qt5:            Qt 5.1
+    Boost:          1.72 or later
+    Nlohmann/JSON:  3.0 or later
 
 
 Install boost via:
+
     sudo apt-get install libboost-all-dev
 
 Install Nlohmann/JSON via:
+
     sudo apt-get install nlohmann-json3-dev
 
 Install Qt5 via:
+
     sudo apt-get install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools
 
 
